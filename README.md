@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lucaoinovation/lucaoinovation/raw/main/assets/github.gif" alt="Oi, sou o Lucas 🚀 ">
+  <img src="https://github.com/lucaoinovation/lucaoinovation/raw/main/github.gif" alt="Oi, sou o Lucas 🚀 ">
 </p>
 
 <h3 align="left">Connect with me:</h3>
